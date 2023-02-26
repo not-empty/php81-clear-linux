@@ -1,7 +1,7 @@
 # PHP 8.1.1 Clear Linux - Docker image
 
 [![Latest Version](https://img.shields.io/github/v/release/kiwfy/php81-clear-linux.svg?style=flat-square)](https://github.com/kiwfy/php811-clear-linux/releases)
-[![Build Status](https://img.shields.io/github/workflow/status/kiwfy/php81-clear-linux/CI?label=ci%20build&style=flat-square)](https://github.com/kiwfy/php81-clear-linux/actions?query=workflow%3ACI)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/kiwfy/php81-clear-linux/docker-image.yml?style=flat-square)](https://github.com/kiwfy/php81-clear-linux/actions?query=workflow%3ACI)
 ![Docker Image Size](https://img.shields.io/docker/image-size/kiwfydev/php81-clear-linux/latest)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
